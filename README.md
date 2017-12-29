@@ -1,2 +1,5 @@
 # hello-world
-yeah going to be a programmer
+
+Hello World
+
+Trying to help programming an AI
